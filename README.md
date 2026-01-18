@@ -1,4 +1,4 @@
-run in the terminal: 
+run 
 pip install flask
 python app.py
 open browser:
