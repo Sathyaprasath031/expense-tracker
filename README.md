@@ -2,4 +2,4 @@ run
 pip install flask
 python app.py
 open browser:
-example:loalhost:5000
+example: localhost:5000
